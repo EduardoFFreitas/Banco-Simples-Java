@@ -29,7 +29,6 @@ public class Main {
                 case 1:
                     System.out.println(saldoTotal);
                     operacao = 0;
-                    System.out.println(operacao);
                     break;
 
                 case 2:
